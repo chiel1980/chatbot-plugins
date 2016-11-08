@@ -1,0 +1,9 @@
+[Core]
+Name = NSStoringPlugin
+Module = nsstoring
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = NS Storingen feed.

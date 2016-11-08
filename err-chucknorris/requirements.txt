@@ -1,0 +1,4 @@
+feedparser
+beautifulsoup
+urllib
+json
