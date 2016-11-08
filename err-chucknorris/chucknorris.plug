@@ -1,9 +1,0 @@
-[Core]
-Name = ChuckNorrisPlugin
-Module = chucknorris 
-
-[Python]
-Version = 2+
-
-[Documentation]
-Description = Chuck Norris random joke generator.
